@@ -4,8 +4,10 @@ description: Hanuman is a minimal yet powerful Jekyll theme for your blogs and w
 cover: assets/images/radhakrishna.jpg
 logo: assets/images/logo.png
 favicon: assets/images/favicon.png
-baseurl: "/hanuman/" # the subpath of your site, e.g. /blog/ or / for root
-url: "https://samanyougarg.com" # the base hostname & protocol for your site
+baseurl: "/WenLiangDailyRecord"
+#baseurl: "/hanuman/" # the subpath of your site, e.g. /blog/ or / for root
+url:  "https://wenlianghuang.github.io"
+#url: "https://samanyougarg.com" # the base hostname & protocol for your site
 
 pagination:
 
