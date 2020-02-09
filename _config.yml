@@ -4,10 +4,10 @@ description: Hanuman is a minimal yet powerful Jekyll theme for your blogs and w
 cover: assets/images/radhakrishna.jpg
 logo: assets/images/logo.png
 favicon: assets/images/favicon.png
-#baseurl: "/WenLiangDailyRecord/"
-baseurl: "/hanuman/" # the subpath of your site, e.g. /blog/ or / for root
-#url:  "https://wenlianghuang.github.io"
-url: "https://samanyougarg.com" # the base hostname & protocol for your site
+baseurl: "/WenLiangDailyRecord/"
+#baseurl: "/hanuman/" # the subpath of your site, e.g. /blog/ or / for root
+url:  "https://wenlianghuang.github.io"
+#url: "https://samanyougarg.com" # the base hostname & protocol for your site
 
 pagination:
 
@@ -22,7 +22,7 @@ pagination:
 # Social
 facebook: facebook
 twitter: twitter
-github:  github
+github:  wenlianghuang
 
 #Additional Pages
 about: about
@@ -47,15 +47,16 @@ plugins:
 
 
 # Settings for rake task
-safe: False
-lsi: False
-username: samanyougarg #github username
-repo: hanuman #github repository
-branch: master #branch
-relative_source: ../hanuman/ #source directory
-destination: ../hanuman-pages/ #destination directory
-production_url:  https://samanyougarg.com/
-source_url:  https://github.com/samanyougarg/hanuman #source repository url
+#20200209 command temporarily
+#safe: False
+#lsi: False
+#username: samanyougarg #github username
+#repo: hanuman #github repository
+#branch: master #branch
+#relative_source: ../hanuman/ #source directory
+#destination: ../hanuman-pages/ #destination directory
+#production_url:  https://samanyougarg.com/
+#source_url:  https://github.com/samanyougarg/hanuman #source repository url
 
 exclude:
   - README.md
