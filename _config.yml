@@ -1,6 +1,9 @@
 # Site settings
-title: Hanuman
-description: Hanuman is a minimal yet powerful Jekyll theme for your blogs and websites.
+#title: Hanuman
+title: Matt
+tagline: '網路的程式日記'
+#description: Hanuman is a minimal yet powerful Jekyll theme for your blogs and websites.
+description: This is Record & Diary Blog of WenLiang
 cover: assets/images/radhakrishna.jpg
 logo: assets/images/logo.png
 favicon: assets/images/favicon.png
