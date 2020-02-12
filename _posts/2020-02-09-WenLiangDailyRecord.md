@@ -3,8 +3,10 @@ layout: post
 cover: assets/images/welcome.jpg
 title: Start the second blog in github
 date: 2020-02-09
-tags: Diary
+tags: 
+    - Diary
 author: wenliang
+permalink: "2020/02/09/WenLiangDailyRecord.html"
 ---
 
 <h2>Overview in 20200209</h2>

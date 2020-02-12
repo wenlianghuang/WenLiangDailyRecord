@@ -3,8 +3,10 @@ layout: post
 title: Introduction of C Sharp
 cover: assets/images/welcome.jpg
 date: 2020-02-10
-tags: Diary
+tags: 
+    - Diary
 author: wenliang
+permalink: "2020/02/10/CSharp-Intro.html"
 ---
 
 C# Generic:
