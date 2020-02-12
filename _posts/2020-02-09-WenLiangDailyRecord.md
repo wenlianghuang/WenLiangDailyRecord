@@ -6,7 +6,7 @@ date: 2020-02-09
 tags: 
     - Diary
 author: wenliang
-permalink: "2020/02/09/WenLiangDailyRecord.html"
+permalink: "2020-02-09-WenLiangDailyRecord.html"
 ---
 
 <h2>Overview in 20200209</h2>

@@ -6,7 +6,7 @@ date: 2020-02-10
 tags: 
     - Diary
 author: wenliang
-permalink: "2020/02/10/CSharp-Intro.html"
+permalink: "2020-02-10-CSharp-Intro.html"
 ---
 
 C# Generic:
