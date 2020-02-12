@@ -32,12 +32,17 @@ layout: default
         <time class="post-date" datetime="{{ page.date | date:'%Y-%m-%d' }}">{{ page.date | date_to_string }}</time>
 
         {% if page.tags.size > 0 %}
+            <!--
             {% for tag in page.tags %}
                 {% if forloop.index == page.tags.size %}
                    <a href='{{site.baseurl}}tags/#{{tag}}'>{{ tag | capitalize }}</a>
                 {% else %}
-                   <a href='{{site.baseurl}}tags/#{{tag}}'>{{ tag | capitalize }}</a>,
+                   <a href='{{site.baseurl}}tags/#{{tag}}'>{{ tag | capitalize }}</a>
                 {% endif %}
+            {% endfor %}
+            -->
+            {% for tag in page.tags%}
+              <a href='{{site.baseurl}}tags/#{{tag}}'>{{ tag }}</a>
             {% endfor %}
         {% endif %}
 
@@ -58,12 +63,17 @@ layout: default
         <header>
           {% if page.tags.size > 0 %}
           <span class="ampstart-subtitle block px3 pt2 mb2">
+                        <!--
                         {% for tag in page.tags %}
                             {% if forloop.index == page.tags.size %}
                                <a href='{{site.baseurl}}tags/#{{tag}}'>{{ tag | capitalize }}</a>
                             {% else %}
-                               <a href='{{site.baseurl}}tags/#{{tag}}'>{{ tag | capitalize }}</a>,
+                               <a href='{{site.baseurl}}tags/#{{tag}}'>{{ tag | capitalize }}</a>
                             {% endif %}
+                        {% endfor %}
+                        -->
+                        {% for tag in page.tags %}
+                          <a href='{{site.baseurl}}tags/#{{tag}}'>{{ tag }}</a>
                         {% endfor %}
           </span>
           {% endif %}
@@ -121,9 +131,9 @@ layout: default
                               {{ post.content | strip_html | truncatewords:0 }}
                             
                             {% endif %}
-                            </p>
+                            </p> -->
                             <a href="{{ site.baseurl }}{{ post.url | remove: '/' }}" class="ampstart-rekated-article-readmore block text-decoration-none ampstart-label">Read more</a>
-                            -->
+                            
                           {% endif %}
                         {% endif %}
                       {% endif %}

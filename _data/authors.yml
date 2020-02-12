@@ -6,7 +6,6 @@ hanuman:
   url: hanumanchalisa.net
   bio: Jai Shri Ram!
   assets: assets/images/hanuman.png
-  cover: assets/images/welcome.jpg
 krishna:
   username: krishna
   name: KRISHNA
@@ -15,7 +14,6 @@ krishna:
   url: shriradhakrishna.com
   bio: Radhe! Radhe!
   assets: assets/images/favicon.png
-  cover: assets/images/welcome.jpg
 Matt:
   username: wenliang
   name: Matt
