@@ -3,3 +3,9 @@
 
 - title: About
   url: about
+
+- title: Tag
+  url: tags
+
+- title: Author
+  url: authors
