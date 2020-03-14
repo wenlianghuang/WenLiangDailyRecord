@@ -1,6 +1,6 @@
 # Site settings
 #title: Hanuman
-title: Matt
+title: Matt Huang
 tagline: '網路的程式日記'
 #description: Hanuman is a minimal yet powerful Jekyll theme for your blogs and websites.
 description: This is Record & Diary Blog of WenLiang
@@ -11,7 +11,7 @@ baseurl: "/WenLiangDailyRecord/"
 #baseurl: "/hanuman/" # the subpath of your site, e.g. /blog/ or / for root
 url:  "https://wenlianghuang.github.io"
 #url: "https://samanyougarg.com" # the base hostname & protocol for your site
-
+mainplain: "2020-02-20(Thur)回診看神內"
 pagination:
 
   # Site-wide kill switch, disabled here it doesn't run at all 

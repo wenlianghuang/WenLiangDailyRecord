@@ -19,4 +19,18 @@ Matt:
   name: Matt
   bio: In this type is diary which include records every day 
   assets: assets/images/welcome.jpg
-
+CSharp:
+  username: Matt's csharp
+  name: CSharp
+  bio: Introduce the programing language of C#
+  assets: assets/images/CSharp.jpeg
+Keras:
+  username: Matt's Keras
+  name: Keras
+  bio: Introduce the deep learning "Keras"
+  assets: assets/images/Keras.png
+FinAlgo:
+  username: Matt's FinAlgo
+  name: Financial Algorithm
+  bio: Weekly Record of Financial Algorithm Class
+  assets: 

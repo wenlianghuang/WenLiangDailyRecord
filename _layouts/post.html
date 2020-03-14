@@ -29,8 +29,8 @@ layout: default
   <main id="content" role="main" class="">
     <article class="photo-article">
       <div class="post-meta mb4 px3">
+        
         <time class="post-date" datetime="{{ page.date | date:'%Y-%m-%d' }}">{{ page.date | date_to_string }}</time>
-
         {% if page.tags.size > 0 %}
             <!--
             {% for tag in page.tags %}
@@ -132,8 +132,9 @@ layout: default
                             
                             {% endif %}
                             </p> -->
+                            <!--
                             <a href="{{ site.baseurl }}{{ post.url | remove: '/' }}" class="ampstart-rekated-article-readmore block text-decoration-none ampstart-label">Read more</a>
-                            
+                            -->
                           {% endif %}
                         {% endif %}
                       {% endif %}

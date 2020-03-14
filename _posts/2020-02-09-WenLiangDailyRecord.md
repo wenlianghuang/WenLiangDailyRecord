@@ -33,4 +33,9 @@ permalink: "2020-02-09-WenLiangDailyRecord.html"
 <p>3.variable "author" in post.html (大概line 13x左右開始),要寫出author的名字和他的biography，裡面大部分都沒有問題，可是我突發起想說:既然在.html裡面就已經有for,if之類的，我為什麼不將javascript放在裡面做出類似的效果和一樣的網站呈現?但<font style="color:#7fff00">第一個難題</font>就是在for loop中還有"<div>"，而我目前是先利用<a href="https://stackoverflow.com/questions/11398522/create-a-div-using-loop" style="color:ffd633" target="_blank">目前的解決方式</a>來處理</p>
 
 <hr>
+<p>4.特別說明一下，在jekyll中可以一直連，ex: page.author, site.data.authors，只要他可以dot下一個variable，他就是一種class，以page.authors為例，他就是某個<font style="color:#7fff00">頁面(page/post)</font>，front matter裡就是在這個page/post下的author varible（每個page/post不同，page.author就不一樣)</p>
+
+<hr>
+<p>5.</p>
 <font style="color:#7fff00">未完待續</font>
+
