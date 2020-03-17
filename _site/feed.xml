@@ -5,26 +5,51 @@
     <description>This is Record &amp; Diary Blog of WenLiang</description>
     <link>http://localhost:4000/WenLiangDailyRecord//</link>
     <atom:link href="http://localhost:4000/WenLiangDailyRecord//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 10 Mar 2020 23:43:46 +0800</pubDate>
-    <lastBuildDate>Tue, 10 Mar 2020 23:43:46 +0800</lastBuildDate>
+    <pubDate>Tue, 17 Mar 2020 17:00:37 +0800</pubDate>
+    <lastBuildDate>Tue, 17 Mar 2020 17:00:37 +0800</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
-        <title>Financial Algorithm Ch2</title>
-        <description>&lt;p&gt;今天有幾件要做的:&lt;br /&gt;
-1.QuantLib&lt;br /&gt;
-2.VBA&lt;br /&gt;
-3.Emdarcadero&lt;/p&gt;
+        <title></title>
+        <description>&lt;p&gt;名詞解釋:&lt;/p&gt;
 &lt;ul&gt;
-    &lt;li&gt;3.1 C++ Builder&lt;/li&gt;
-    &lt;li&gt;3.2 Delphi&lt;/li&gt;
+    &lt;li&gt;1.loan: 貸款&lt;/li&gt;
+    &lt;li&gt;2.coupon: 債券&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;http://greenhornfinancefootnote.blogspot.com/2014/06/how-to-calculate-accrued-interest.html&quot; target=&quot;_blank&quot;&gt;3.Accrued Interest:&lt;/a&gt;應計利息 = clean price or flat price&lt;/li&gt;
+    &lt;li&gt;4.maturity: 到期日&lt;/li&gt;
+    &lt;li&gt;5.yield: 收益&lt;/li&gt;
+    &lt;li&gt;6.portfolio: 投資組合&lt;/li&gt;
+    &lt;li&gt;7.hedging: 避險&lt;/li&gt;
+    &lt;li&gt;8.Duration: 債券存續期&lt;/li&gt;
+    &lt;li&gt;9.Term structure of interest Rate: 利率的期限結構&lt;/li&gt;
+    &lt;li&gt;10.bond: 債券&lt;/li&gt;
+    &lt;li&gt;11.spot rate: 即期匯率或即期利息&lt;/li&gt;
+    &lt;li&gt;12.forward rate: 遠期利率&lt;/li&gt;
+    &lt;li&gt;13.mortgage: 抵押權&lt;/li&gt;
+    &lt;li&gt;14.bond equivalent yield: 債券收益等值率&lt;/li&gt;
+    &lt;li&gt;15.zero-coupon bond: 零息票債券&lt;/li&gt;
+    &lt;li&gt;16.par: 面額&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://wiki.mbalib.com/wiki/平息债券&quot; target=&quot;_blank&quot;&gt;17.level-counpon bond: &lt;/a&gt;平息債券&lt;/li&gt;
+    &lt;li&gt;17.premium: 溢價；溢酬；權利金&lt;/li&gt;
+    &lt;li&gt;18.discount: 折扣，折價，貼現，貼現息&lt;/li&gt;
+    &lt;li&gt;19.settlement day: 結算日&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;關鍵解釋&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;1.page 87: 總共利息&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;問題&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;1.MD不太懂啊!!!&lt;/li&gt;
+    &lt;li&gt;2.從p.122後就開始看不太懂QQ&lt;/li&gt;
+    &lt;li&gt;3.p.90的結尾看不太懂&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-        <pubDate>Tue, 10 Mar 2020 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/WenLiangDailyRecord//FinAlgoCh2</link>
-        <guid isPermaLink="true">http://localhost:4000/WenLiangDailyRecord//FinAlgoCh2</guid>
-        
-        <category>FinAlgo</category>
+        <pubDate>Tue, 17 Mar 2020 17:00:37 +0800</pubDate>
+        <link>http://localhost:4000/WenLiangDailyRecord//2020-03-12-Financial-Algorithm-Record-Week2</link>
+        <guid isPermaLink="true">http://localhost:4000/WenLiangDailyRecord//2020-03-12-Financial-Algorithm-Record-Week2</guid>
         
         
       </item>
