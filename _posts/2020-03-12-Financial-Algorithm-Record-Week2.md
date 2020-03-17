@@ -10,7 +10,7 @@ authors: Matt's FinAlgo
 <ul>
     <li>1.loan: 貸款</li>
     <li>2.coupon: 債券</li>
-    <li>3.Accrued Interest:應計利息</li>
+    <li><a href="http://greenhornfinancefootnote.blogspot.com/2014/06/how-to-calculate-accrued-interest.html" target="_blank">3.Accrued Interest:</a>應計利息 = clean price or flat price</li>
     <li>4.maturity: 到期日</li>
     <li>5.yield: 收益</li>
     <li>6.portfolio: 投資組合</li>
@@ -20,7 +20,14 @@ authors: Matt's FinAlgo
     <li>10.bond: 債券</li>
     <li>11.spot rate: 即期匯率或即期利息</li>
     <li>12.forward rate: 遠期利率</li>
-    <li>13.</li>
+    <li>13.mortgage: 抵押權</li>
+    <li>14.bond equivalent yield: 債券收益等值率</li>
+    <li>15.zero-coupon bond: 零息票債券</li>
+    <li>16.par: 面額</li>
+    <li><a href="https://wiki.mbalib.com/wiki/平息债券" target="_blank">17.level-counpon bond: </a>平息債券</li>
+    <li>17.premium: 溢價；溢酬；權利金</li>
+    <li>18.discount: 折扣，折價，貼現，貼現息</li>
+    <li>19.settlement day: 結算日</li>
 </ul>
 
 關鍵解釋
@@ -32,4 +39,5 @@ authors: Matt's FinAlgo
 <ul>
     <li>1.MD不太懂啊!!!</li>
     <li>2.從p.122後就開始看不太懂QQ</li>
+    <li>3.p.90的結尾看不太懂</li>
 </ul>
